@@ -120,6 +120,8 @@ tar -xvf <arquivo_do_recovery>.tar
 3. Na tela de aviso (*Warning*), pressione **Volume Maior (+)** para confirmar.
 
 ✅ **Verificação:** a tela mostra a mensagem **"Downloading..."**.
+<img width="1933" height="3511" alt="Samsung_Galaxy_S_III_Odin_mode" src="https://github.com/user-attachments/assets/9539513b-6f27-4033-809d-6f84df307afe" />
+
 
 > A combinação varia por modelo. Se não funcionar, pesquise por "*<seu modelo> download mode*".
 
@@ -188,12 +190,15 @@ Com o `--no-reboot`, o aparelho continua na tela de Download.
 
 1. Na tela principal, altere o idioma se desejar (ex.: Português) e deslize para permitir modificações no sistema.
 2. Acesse **Limpar (Wipe) > Limpeza Avançada (Advanced Wipe)**.
+<img width="1280" height="800" alt="1" src="https://github.com/user-attachments/assets/ba25d326-382c-4b2e-9a40-43921a95940f" />
+<img width="1280" height="800" alt="2" src="https://github.com/user-attachments/assets/901a2f11-9b80-439a-bbfe-3ef990b06102" />
 3. Marque as partições:
    - Dalvik / ART Cache
    - Sistema (System)
    - Dados (Data)
    - Cache
    - *(Opcional)* Memória Interna (Internal Storage)
+   <img width="1280" height="800" alt="3" src="https://github.com/user-attachments/assets/ac1e8e20-3229-4744-9788-02e4611e4e49" />
 4. Deslize a barra inferior para confirmar a limpeza.
 
 > Algumas ROMs pedem passos extras (como *format data*). Siga a documentação da ROM escolhida.
